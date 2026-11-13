@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ubcesa.github.io/sitemap.xml
